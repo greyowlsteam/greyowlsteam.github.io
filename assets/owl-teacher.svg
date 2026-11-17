@@ -1,0 +1,40 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 240 240" role="img" aria-label="Клод — сова-учитель: в круглых очках, шарфе и с планшетом">
+  <path d="M66 74 L50 24 L98 58 Z" fill="#7a8089"/>
+  <path d="M174 74 L190 24 L142 58 Z" fill="#7a8089"/>
+  <!-- седее капитана: учитель всё-таки -->
+  <path d="M120 44 C174 44 198 86 198 138 C198 192 164 224 120 224 C76 224 42 192 42 138 C42 86 66 44 120 44 Z" fill="#a3a9b2"/>
+  <ellipse cx="120" cy="174" rx="48" ry="44" fill="#e2e4e8"/>
+  <!-- лицевой диск -->
+  <circle cx="92" cy="104" r="30" fill="#c6cbd2"/>
+  <circle cx="148" cy="104" r="30" fill="#c6cbd2"/>
+  <!-- глаза: прищур мудрый и немного хитрый -->
+  <circle cx="92" cy="106" r="12" fill="#2b2f36"/>
+  <circle cx="148" cy="106" r="12" fill="#2b2f36"/>
+  <circle cx="88" cy="102" r="4" fill="#ffffff"/>
+  <circle cx="144" cy="102" r="4" fill="#ffffff"/>
+  <path d="M76 96 C84 90 100 90 108 96 L108 88 C100 84 84 84 76 90 Z" fill="#a3a9b2"/>
+  <path d="M132 96 C140 90 156 90 164 96 L164 88 C156 84 140 84 132 90 Z" fill="#a3a9b2"/>
+  <!-- круглые очки -->
+  <g fill="none" stroke="#3b3f46" stroke-width="5">
+    <circle cx="92" cy="106" r="22"/>
+    <circle cx="148" cy="106" r="22"/>
+    <path d="M114 104 q6 -5 12 0"/>
+    <path d="M70 102 L50 94"/><path d="M170 102 L190 94"/>
+  </g>
+  <path d="M112 128 L128 128 L120 144 Z" fill="#f2a541"/>
+  <!-- шарф -->
+  <path d="M60 150 C90 164 150 164 180 150 L180 164 C150 178 90 178 60 164 Z" fill="#7a5c43"/>
+  <path d="M150 166 L160 206 L144 208 L138 168 Z" fill="#6a4e38"/>
+  <!-- планшет в крыльях -->
+  <rect x="84" y="176" width="64" height="44" rx="5" fill="#c9a96e"/>
+  <rect x="89" y="181" width="54" height="34" rx="3" fill="#2f3542"/>
+  <g stroke="#5eead4" stroke-width="2.5" stroke-linecap="round">
+    <path d="M95 189 h20"/><path d="M99 196 h28"/><path d="M99 203 h16"/><path d="M95 209 h10"/>
+  </g>
+  <path d="M46 124 C28 156 40 200 84 206 C82 184 70 150 46 124 Z" fill="#878e98"/>
+  <path d="M194 124 C212 156 200 200 148 206 C150 184 170 150 194 124 Z" fill="#878e98"/>
+  <g stroke="#f2a541" stroke-width="5" stroke-linecap="round">
+    <path d="M100 222 l-7 10"/><path d="M106 223 v11"/><path d="M112 222 l7 10"/>
+    <path d="M128 222 l-7 10"/><path d="M134 223 v11"/><path d="M140 222 l7 10"/>
+  </g>
+</svg>

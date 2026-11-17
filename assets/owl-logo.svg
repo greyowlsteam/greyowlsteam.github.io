@@ -1,0 +1,29 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 240 240" role="img" aria-label="Серая сова в VR-очках">
+  <!-- Эмблема «Серых Сов»: сова в VR-очках, иконка и логотип -->
+  <path d="M66 74 L50 24 L98 58 Z" fill="#6f7680"/>
+  <path d="M174 74 L190 24 L142 58 Z" fill="#6f7680"/>
+  <path d="M120 44 C174 44 198 86 198 138 C198 192 164 224 120 224 C76 224 42 192 42 138 C42 86 66 44 120 44 Z" fill="#8f96a0"/>
+  <path d="M46 124 C28 154 34 196 64 210 C68 180 68 148 46 124 Z" fill="#6f7680"/>
+  <path d="M194 124 C212 154 206 196 176 210 C172 180 172 148 194 124 Z" fill="#6f7680"/>
+  <ellipse cx="120" cy="172" rx="48" ry="46" fill="#d6d9de"/>
+  <g fill="none" stroke="#aab0b8" stroke-width="3.5" stroke-linecap="round">
+    <path d="M96 156 q6 7 12 0"/><path d="M114 156 q6 7 12 0"/><path d="M132 156 q6 7 12 0"/>
+    <path d="M105 176 q6 7 12 0"/><path d="M123 176 q6 7 12 0"/>
+    <path d="M114 196 q6 7 12 0"/>
+  </g>
+  <!-- ремешок очков вокруг головы -->
+  <path d="M44 100 C44 92 196 92 196 100 L196 116 C196 108 44 108 44 116 Z" fill="#2d3340"/>
+  <!-- сами очки -->
+  <rect x="58" y="74" width="124" height="56" rx="20" fill="#232834"/>
+  <rect x="66" y="80" width="108" height="10" rx="5" fill="#3a4252"/>
+  <!-- «глаза» на экране очков -->
+  <ellipse cx="97" cy="106" rx="16" ry="10" fill="#5eead4"/>
+  <ellipse cx="143" cy="106" rx="16" ry="10" fill="#5eead4"/>
+  <ellipse cx="92" cy="103" rx="4" ry="2.5" fill="#e6fffb"/>
+  <ellipse cx="138" cy="103" rx="4" ry="2.5" fill="#e6fffb"/>
+  <path d="M112 134 L128 134 L120 150 Z" fill="#f2a541"/>
+  <g stroke="#f2a541" stroke-width="5" stroke-linecap="round">
+    <path d="M100 222 l-7 10"/><path d="M106 223 v11"/><path d="M112 222 l7 10"/>
+    <path d="M128 222 l-7 10"/><path d="M134 223 v11"/><path d="M140 222 l7 10"/>
+  </g>
+</svg>
